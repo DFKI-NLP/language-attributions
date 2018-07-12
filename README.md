@@ -7,6 +7,8 @@ to language.
 
 Our implementation uses their [toolbox](https://github.com/albermax/innvestigate).
 
+![Negative Sentiment Contributions](https://github.com/rbtsbg/language-attributions-1/blob/master/images/negative_sentiment.png)
+
 # How to run experiments:
 
 - install requirements.txt
