@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+experiments/*
+!experiments/csv/
+.ipynb_checkpoints/
+.word_vector_cache/
+text_coloring/.ipynb_checkpoints/
+text_coloring/.ipynb_checkpoints/text_coloring-checkpoint.ipynb
