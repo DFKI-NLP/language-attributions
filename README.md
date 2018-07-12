@@ -5,9 +5,13 @@ Applying the PatternAttribution approach by
 
 to language. 
 
-Our implementation uses their [toolbox](https://github.com/albermax/innvestigate).
+Our implementation uses their [toolbox](https://github.com/albermax/innvestigate). A scientific paper, in which we present our approach, is under revision.
+
+**Here are contributions to a negative sentiment classification that our method retrieved from a sentiment model:**
 
 ![Negative Sentiment Contributions](https://github.com/rbtsbg/language-attributions-1/blob/master/images/negative_sentiment.png)
+
+The review is taken from the Amazon Review Polarity dataset on which we also trained the sentiment model. 
 
 # How to run experiments:
 
