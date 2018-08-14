@@ -7,9 +7,14 @@ Applying the PatternAttribution approach by
 
 to language. 
 
-Our implementation uses their [toolbox](https://github.com/albermax/innvestigate). A scientific paper, in which we present our approach, is under revision.
+Our implementation uses their [toolbox](https://github.com/albermax/innvestigate). 
 
-**Here are contributions to a negative sentiment classification that our method retrieved from a sentiment model:**
+We present the results of this project at the [2018 EMNLP Workshop on Analysing and Interpreting Neural Networks for NLP](https://blackboxnlp.github.io/). A preprint is available:
+
+https://arxiv.org/abs/1808.04127
+
+
+**Here are contributions to a negative sentiment classification that our method retrieved from a CNN sentiment classifier:**
 
 ![Negative Sentiment Contributions](https://github.com/rbtsbg/language-attributions-1/blob/master/images/negative_sentiment.png)
 
