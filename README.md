@@ -1,5 +1,18 @@
 # language-attributions
-by David Harbecke, Robert Schwarzenberg and Christoph Alt
+by David Harbecke, Robert Schwarzenberg and Christoph Alt.
+
+Code accompanying the paper
+
+```
+@inproceedings{harbecke_la_2019,
+  title = {Learning Explanations from Language Data},
+  booktitle = {Proceedings of the EMNLP 2018 Workshop on Analyzing and Interpreting Neural Networks for NLP},
+  author = {Harbecke, David and Schwarzenberg, Robert and Alt, Christoph},
+  address = {Brussels, Belgium},
+  year = {2018}
+  }
+
+```
 
 Applying the PatternAttribution approach by
 
@@ -8,10 +21,6 @@ Applying the PatternAttribution approach by
 to language. 
 
 Our implementation uses their [toolbox](https://github.com/albermax/innvestigate). 
-
-We present the results of this project at the [2018 EMNLP Workshop on Analysing and Interpreting Neural Networks for NLP](https://blackboxnlp.github.io/). A preprint is available:
-
-https://arxiv.org/abs/1808.04127
 
 
 **Here are contributions to a negative sentiment classification that our method retrieved from a CNN sentiment classifier:**
