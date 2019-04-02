@@ -4,7 +4,7 @@ by David Harbecke, Robert Schwarzenberg and Christoph Alt.
 Code accompanying the paper
 
 ```
-@inproceedings{harbecke_la_2019,
+@inproceedings{harbecke_la_2018,
   title = {Learning Explanations from Language Data},
   booktitle = {Proceedings of the EMNLP 2018 Workshop on Analyzing and Interpreting Neural Networks for NLP},
   author = {Harbecke, David and Schwarzenberg, Robert and Alt, Christoph},
