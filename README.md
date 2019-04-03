@@ -8,7 +8,7 @@ Code accompanying the paper
   title = {Learning Explanations from Language Data},
   booktitle = {Proceedings of the EMNLP 2018 Workshop on Analyzing and Interpreting Neural Networks for NLP},
   author = {Harbecke, David and Schwarzenberg, Robert and Alt, Christoph},
-  address = {Brussels, Belgium},
+  location = {Brussels, Belgium},
   year = {2018}
   }
 
